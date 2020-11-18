@@ -1,3 +1,9 @@
+#Apple temp file
+.DS_Store
+
+#Microsoft Temporary Files
+~$*
+
 workspace.xml
 junitvmwatcher*.properties
 build.properties
